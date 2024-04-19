@@ -1,3 +1,5 @@
+// НЕ АКТУАЛЬНО, ПЕРЕРОБЛЕНО НА СЛАЙСИ
+
 import { createReducer } from '@reduxjs/toolkit';
 import { addContact, delateContact, filterContact } from './actions';
 

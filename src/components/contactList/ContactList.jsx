@@ -1,7 +1,7 @@
 import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { getContact } from '../../redux/selectors';
-import { delateContact } from '../../redux/actions';
+import { delateContact } from '../../redux/contactsSlice';
 
 const ContactList = () => {
   const dispatch = useDispatch();

@@ -1,3 +1,5 @@
+// НЕ АКТУАЛЬНО, ПЕРЕРОБЛЕНО НА СЛАЙСИ
+
 import { createAction } from '@reduxjs/toolkit';
 import { nanoid } from 'nanoid';
 
